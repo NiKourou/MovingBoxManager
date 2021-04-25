@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1024px" height="1024px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 10240 10240" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>pencil icon</title>
+	<desc>pencil icon from the IconExperience.com O-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve2" fill="#252525" d="M1222 7928l248 248 -4 10 480 480 10 -4 248 248 -907 342c-123,46 -254,23 -348,-70 -93,-93 -116,-224 -70,-348l342 -907z"/>
+	<path id="curve1" fill="#252525" d="M6022 2302l-4299 4299 -504 1338 977 977 1338 -504 4299 -4299 -1810 -1810zm226 1131c-125,-125 -328,-125 -453,0l-2942 2942c-125,125 -125,328 0,453 125,125 328,125 453,0l2942 -2942c125,-125 125,-328 0,-453zm-4781 4754l504 -1338 1313 1313 -1338 504 -480 -480z"/>
+	<path id="curve0" fill="#DE8D00" d="M8963 2075l-905 -905c-249,-249 -656,-249 -905,0l-905 905 1810 1810 905 -905c249,-249 249,-656 0,-905zm-1131 -226c125,125 125,328 0,453 -125,125 -328,125 -453,0 -125,-125 -125,-328 0,-453 125,-125 328,-125 453,0z"/>
+</svg>
