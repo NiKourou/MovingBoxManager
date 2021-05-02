@@ -1,6 +1,6 @@
 # MovingBoxManager
 
-A simple application for helping with the relocation, by organizing the moving boxes.
+A simple application for assisting relocation, by organizing the moving boxes.
 
 Functionality: 
 1. Add boxes
